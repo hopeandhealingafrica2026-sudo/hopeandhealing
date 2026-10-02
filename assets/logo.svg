@@ -1,0 +1,48 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 150" role="img" aria-labelledby="title desc">
+  <title id="title">Hope and Healing Africa</title>
+  <desc id="desc">Hope and Healing Africa - Ruhuka Umutima</desc>
+
+  <defs>
+    <linearGradient id="hhaBlue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#123b68"/>
+      <stop offset="100%" stop-color="#2f78b7"/>
+    </linearGradient>
+  </defs>
+
+  <circle cx="75" cy="75" r="58" fill="#eaf5fc"/>
+  <path
+    d="M75 113
+       C67 104 35 84 35 60
+       C35 45 46 35 59 35
+       C67 35 73 39 75 47
+       C78 39 84 35 92 35
+       C105 35 115 45 115 60
+       C115 84 83 104 75 113Z"
+    fill="none"
+    stroke="url(#hhaBlue)"
+    stroke-width="7"
+    stroke-linejoin="round"/>
+
+  <text x="145" y="64"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="30"
+        font-weight="700"
+        fill="#123b68">
+    HOPE &amp; HEALING
+  </text>
+
+  <text x="147" y="96"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="21"
+        font-weight="600"
+        fill="#2f78b7">
+    AFRICA
+  </text>
+
+  <text x="147" y="122"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="16"
+        fill="#61778b">
+    RUHUKA UMUTIMA
+  </text>
+</svg>
